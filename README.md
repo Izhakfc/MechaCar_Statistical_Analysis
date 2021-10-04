@@ -34,3 +34,4 @@ Looking at the results of the previous t-tests we can infer the next things:
 * From the Lot 2 t-test we obtained a p-value of <code>0.6072</code> which still fails to reject the null hypothesis, therefore the mean of the lot 2 population is 1500.
 * From the Lot 3 t-test we obtained a p-value of <code>0.04168</code> being lower that our defined alpha, therefore we reject the null hypothesis and accept the alternative hypothesis of "True mean is not equal to 1500" and the estimate mean is around <code>1496.14</code>.
 
+## Study Design: MechaCar vs Competition
